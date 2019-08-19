@@ -1,21 +1,27 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Test Blog
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Test Blog
+subheading: Testing a blog using Gatsby + Netlify
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Gatsbyjs?
+  description: >-
+    Gatsby is a React-based, GraphQL powered, static site generator. What does
+    that even mean?  Well, it weaves together the best parts of React, webpack,
+    react-router, GraphQL, and other front-end tools in to one very enjoyable
+    developer experience. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Don’t get hung up on the moniker ‘static site generator’.  That term has been
+  around for a while, but Gatsby is far more like a modern front-end framework
+  than a static site generator of old. It uses powerful preconfiguration to
+  build a website that uses only static files for incredibly fast page loads,
+  service workers, code splitting, server-side rendering, intelligent image
+  loading, asset optimization, and data prefetching. All out of the box. I
+  didn’t believe the speed until I tried it myself.  You code and develop your
+  site, Gatsby transforms it into a directory with a single HTML file and your
+  static assets. This folder is uploaded to your favorite hosting provider, and
+  voila.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +74,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
